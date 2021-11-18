@@ -12,6 +12,6 @@
        
        Page 4-5: Contains graphs to show distribution of variables.
        
- [Data exploration power bi report link](https://app.powerbi.com/view?r=eyJrIjoiNWZjZDNmYjYtY2MzNi00ZWRhLTlmMDYtODM5MjU0ZjM2NTM0IiwidCI6IjUwZDZjYjY5LTkzNmYtNGMxOC1iYWNiLTA3ZmQwNzhlOWJkZSJ9)
+ [Data exploration power bi report link](https://app.powerbi.com/view?r=eyJrIjoiZjg2YzE0ZjQtNDVhYi00YWFlLWFjNzYtNjgzNTY3MGQ3YTNlIiwidCI6IjUwZDZjYjY5LTkzNmYtNGMxOC1iYWNiLTA3ZmQwNzhlOWJkZSJ9)
  
  

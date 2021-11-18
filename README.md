@@ -1,7 +1,7 @@
 # Predicting-Decay-State-Coefficient
        Contains basic data exploration and modeling notebook for CBM of Naval Propulsion Plants Data Set
 
-# Power bi report:
+## Power bi report:
        Page 1-2: Shows the relationship of some variables with GT compressor and GT Turbine decay coefficients.
                  Variables which show linear relationship with the target variables have been mostly avoided.
                  The graphs shows variables that have some intresting relationship as the target variable varies.
